@@ -1,7 +1,7 @@
 {
-  "name": "vetshop",
+  "name": "galeriaVirtual",
   "version": "1.0.0",
-  "description": "tienda vet online",
+  "description": "Galeria online",
   "main": "server.js",
   "scripts": {
     "start": "node back/server.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/diegohrey/vetshop2.git"
+    "url": "git+https://github.com/diegohrey/GaleriaVirtual.git"
   },
   "author": "diego rey",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/diegohrey/vetshop2/issues"
+    "url": "https://github.com/diegohrey/GaleriaVirtual/issues"
   },
-  "homepage": "https://github.com/diegohrey/vetshop2#readme",
+  "homepage": "https://github.com/diegohrey/GaleriaVirtual#readme",
   "dependencies": {
     "dotenv": "^16.0.3",
     "express": "^4.18.2",
